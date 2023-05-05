@@ -1,0 +1,18 @@
+.colorir-fundo{
+    background-color: slategray;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+  }
+  
+  #segundo{ /*seleção de ID*/
+    color:blue;
+    font-size: 30px;
+    text-align: center;
+  }
+  .subtiulo{
+    font-weight: bold;
+    color: blueviolet;
+    text-align: center;
+  }
